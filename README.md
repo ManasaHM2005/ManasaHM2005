@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am computer science and engineering student<br>I am currently learning java with DSA
+I am computer science and engineering student<br>I am currently learning DSA using java<br>Aspiring Full stack Developer
 
 
 ## 🌐 Socials:
